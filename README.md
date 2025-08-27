@@ -29,6 +29,12 @@ git clone https://github.com/Venkateeshh/Js-Language-Translator.git
 
 5. Click the "Translate" button to get the translated text.
 
+📸 Screenshots
+-------------
+Here are some screenshots of the Language Converter:
+![App Screenshot](images/scr1.png)
+![App Screenshot](images/scr2.png)
+
 ## Feedback and Contributions
 
 If you find any issues with the application or have suggestions for improvement, please feel free to create an issue or submit a pull request on the GitHub repository. Your feedback and contributions are highly appreciated!
